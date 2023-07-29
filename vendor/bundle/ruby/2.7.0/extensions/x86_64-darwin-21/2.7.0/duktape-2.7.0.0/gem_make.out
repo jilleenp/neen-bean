@@ -1,0 +1,17 @@
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/duktape-2.7.0.0/ext/duktape
+/Users/jilleen/.rbenv/versions/2.7.4/bin/ruby -I /Users/jilleen/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230716-27330-1ctojii.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR=" clean
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR="
+compiling duktape.c
+compiling duktape_ext.c
+linking shared-object duktape_ext.bundle
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20230716-27330-1mp4vje

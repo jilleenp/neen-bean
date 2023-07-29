@@ -1,0 +1,16 @@
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/jilleen/.rbenv/versions/2.7.4/bin/ruby -I /Users/jilleen/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230716-27330-46aorf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/jilleen/Documents/GitHub/hydejack-starter-kit-test/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230716-27330-64bzw7
