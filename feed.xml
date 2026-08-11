@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Neen Bean</title>
-    <link href="https://illeenp.github.io/neen-bean/feed.xml" rel="self" />
-    <link href="https://illeenp.github.io/neen-bean" />
+    <link href="https://jilleenp.github.io/neen-bean/feed.xml" rel="self" />
+    <link href="https://jilleenp.github.io/neen-bean" />
     <updated>2026-08-11T19:09:45-04:00</updated>
     <author>
         <name>Jilleen Phillips</name>
     </author>
-    <id>https://illeenp.github.io/neen-bean</id>
+    <id>https://jilleenp.github.io/neen-bean</id>
 
     <entry>
         <title>When the Evidence Doesn&#x27;t Make Sense</title>
         <author>
             <name>Jilleen Phillips</name>
         </author>
-        <link href="https://illeenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html"/>
-        <id>https://illeenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html</id>
+        <link href="https://jilleenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html"/>
+        <id>https://jilleenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html</id>
             <category term="genealogy"/>
 
         <updated>2026-08-11T19:09:45-04:00</updated>
@@ -66,8 +66,8 @@
         <author>
             <name>Jilleen Phillips</name>
         </author>
-        <link href="https://illeenp.github.io/neen-bean/to-those-who-come-after.html"/>
-        <id>https://illeenp.github.io/neen-bean/to-those-who-come-after.html</id>
+        <link href="https://jilleenp.github.io/neen-bean/to-those-who-come-after.html"/>
+        <id>https://jilleenp.github.io/neen-bean/to-those-who-come-after.html</id>
             <category term="genealogy"/>
 
         <updated>2026-08-11T18:24:57-04:00</updated>
