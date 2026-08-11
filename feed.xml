@@ -3,12 +3,35 @@
     <title>Neen Bean</title>
     <link href="https://jilleenp.github.io/neen-bean/feed.xml" rel="self" />
     <link href="https://jilleenp.github.io/neen-bean" />
-    <updated>2026-08-11T19:09:45-04:00</updated>
+    <updated>2026-08-11T19:52:09-04:00</updated>
     <author>
         <name>Jilleen Phillips</name>
     </author>
     <id>https://jilleenp.github.io/neen-bean</id>
 
+    <entry>
+        <title>This is a new post</title>
+        <author>
+            <name>Jilleen Phillips</name>
+        </author>
+        <link href="https://jilleenp.github.io/neen-bean/this-is-a-new-post.html"/>
+        <id>https://jilleenp.github.io/neen-bean/this-is-a-new-post.html</id>
+
+        <updated>2026-08-11T19:52:09-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Please, please let this work
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Please, please let this work
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>When the Evidence Doesn&#x27;t Make Sense</title>
         <author>
