@@ -13,15 +13,15 @@
             "id": "https://jilleenp.github.io/neen-bean/this-is-a-new-post.html",
             "url": "https://jilleenp.github.io/neen-bean/this-is-a-new-post.html",
             "title": "This is a new post",
-            "summary": "Please, please let this work. Looks like it may be a problem with git hub. Trying again.",
-            "content_html": "\n  <p>\n    Please, please let this work.\n  </p>\n\n  <p>\n    Looks like it may be a problem with git hub. Trying again.\n  </p>",
+            "summary": "Please, please let this work. Looks like it may be a problem with git hub. Trying again. ...And again.",
+            "content_html": "\n  <p>\n    Please, please let this work.\n  </p>\n\n  <p>\n    Looks like it may be a problem with git hub. Trying again.\n  </p>\n\n  <p>\n    ...And again.\n  </p>",
             "author": {
                 "name": "Jilleen Phillips"
             },
             "tags": [
             ],
             "date_published": "2026-08-11T19:52:09-04:00",
-            "date_modified": "2026-08-12T07:35:19-04:00"
+            "date_modified": "2026-08-12T11:29:21-04:00"
         },
         {
             "id": "https://jilleenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html",
