@@ -3,43 +3,12 @@
     <title>Neen Bean</title>
     <link href="https://jilleenp.github.io/neen-bean/feed.xml" rel="self" />
     <link href="https://jilleenp.github.io/neen-bean" />
-    <updated>2026-08-12T11:29:21-04:00</updated>
+    <updated>2026-08-13T13:41:09-04:00</updated>
     <author>
         <name>Jilleen Phillips</name>
     </author>
     <id>https://jilleenp.github.io/neen-bean</id>
 
-    <entry>
-        <title>This is a new post</title>
-        <author>
-            <name>Jilleen Phillips</name>
-        </author>
-        <link href="https://jilleenp.github.io/neen-bean/this-is-a-new-post.html"/>
-        <id>https://jilleenp.github.io/neen-bean/this-is-a-new-post.html</id>
-
-        <updated>2026-08-11T19:52:09-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Please, please let this work. Looks like it may be a problem with git hub. Trying again. ...And again.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Please, please let this work.
-  </p>
-
-  <p>
-    Looks like it may be a problem with git hub. Trying again.
-  </p>
-
-  <p>
-    ...And again.
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>When the Evidence Doesn&#x27;t Make Sense</title>
         <author>
@@ -47,16 +16,19 @@
         </author>
         <link href="https://jilleenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html"/>
         <id>https://jilleenp.github.io/neen-bean/when-the-evidence-doesnt-make-sense.html</id>
+        <media:content url="https://jilleenp.github.io/neen-bean/media/posts/3/jo-covered-bridge.jpg" medium="image" />
             <category term="genealogy"/>
 
         <updated>2026-08-11T19:09:45-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    If you have a pile of records naming a person that you can't make sense out of, there may be a very good reason for your confusion. Meet the Sherwoods. I had a pile of records naming John Sherwood of Connecticut and New York. I&hellip;
+                        <img src="https://jilleenp.github.io/neen-bean/media/posts/3/jo-covered-bridge.jpg" alt="" />
+                    If you have a pile of records naming a person that you&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jilleenp.github.io/neen-bean/media/posts/3/jo-covered-bridge.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     If you have a pile of records naming a person that you can't make sense out of, there may be a very good reason for your confusion.
@@ -75,15 +47,15 @@
   </p>
 
   <p>
-    Here's what that family looked like:
+    Here's what that family actually looked like:
   </p>
 
   <ul>
-    <li>Abigail Sherwood (1770-1856) was the daughter of one John Sherwood (1731-1777). She also had a brother John Sherwood (1764-1852).</li><li>Abigail's husband was also named John Sherwood (about 1775-about 1864). He was the son of (yep) yet another John (1740-1825) and Abigail (1753-1829) Sherwood.</li><li>And that John Sherwood (1740-1825) was also was the son of a John Sherwood (1703-1768).</li>
+    <li>Abigail Sherwood (1770-1856) was the daughter of one John Sherwood (1731-1777). She <i>also</i> had a brother John Sherwood (1764-1852).</li><li>Abigail's husband was <i>also</i> named John Sherwood (about 1775-about 1864). He was the son of (yep!) yet another John (1740-1825) and Abigail (1753-1829) Sherwood.</li><li>And <i>that</i> John Sherwood (1740-1825) was also was the son of a John Sherwood (1703-1768).</li>
   </ul>
 
   <p>
-    And all of those were unique individuals. Once I had a family structure in place and was able to identify the life spans of each person, I was able to identity which record belonged to which person.
+    That's <b>five</b> John Sherwoods and <b>two</b> Abigail Sherwoods, all of those were unique individuals. Once I had a family structure in place and was able to identify the life spans of each person, I was able to identity which record belonged to which person.
   </p>
 
   <p>
@@ -99,16 +71,19 @@
         </author>
         <link href="https://jilleenp.github.io/neen-bean/to-those-who-come-after.html"/>
         <id>https://jilleenp.github.io/neen-bean/to-those-who-come-after.html</id>
+        <media:content url="https://jilleenp.github.io/neen-bean/media/posts/1/Barn-on-Beken-Farm-Bloomville.jpg" medium="image" />
             <category term="genealogy"/>
 
         <updated>2026-08-11T18:24:57-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is what I want you to know. I know it looks a little bit crazy, to spend all this time digging up little bits of information about all those who came before me. And perhaps it is. But this is why I do it:&hellip;
+                        <img src="https://jilleenp.github.io/neen-bean/media/posts/1/Barn-on-Beken-Farm-Bloomville.jpg" alt="" />
+                    This is what I want you to know. I know it looks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jilleenp.github.io/neen-bean/media/posts/1/Barn-on-Beken-Farm-Bloomville.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     This is what I want you to know.
