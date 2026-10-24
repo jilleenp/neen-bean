@@ -3,12 +3,35 @@
     <title>Neen Bean</title>
     <link href="https://jilleenp.github.io/neen-bean/feed.xml" rel="self" />
     <link href="https://jilleenp.github.io/neen-bean" />
-    <updated>2026-09-04T11:13:39-04:00</updated>
+    <updated>2026-10-24T17:04:48-04:00</updated>
     <author>
         <name>Jilleen Phillips</name>
     </author>
     <id>https://jilleenp.github.io/neen-bean</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Jilleen Phillips</name>
+        </author>
+        <link href="https://jilleenp.github.io/neen-bean/test.html"/>
+        <id>https://jilleenp.github.io/neen-bean/test.html</id>
+        <media:content url="https://jilleenp.github.io/neen-bean/media/posts/8/Date-and-location-unknown-Arthur-Cook-far-left-back-row-Lucy-Cook-far-right-middle-row.jpg" medium="image" />
+
+        <updated>2026-10-24T17:04:48-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jilleenp.github.io/neen-bean/media/posts/8/Date-and-location-unknown-Arthur-Cook-far-left-back-row-Lucy-Cook-far-right-middle-row.jpg" alt="" />
+                    This is test. This is only a test.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jilleenp.github.io/neen-bean/media/posts/8/Date-and-location-unknown-Arthur-Cook-far-left-back-row-Lucy-Cook-far-right-middle-row.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This is test. This is only a test.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Witch&#x27;s Walk</title>
         <author>
